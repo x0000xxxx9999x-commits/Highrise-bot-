@@ -13,7 +13,7 @@ from highrise import BaseBot, User, Position
 from highrise.models import SessionMetadata, CurrencyItem, Item
 
 # ====================== الإعدادات ======================
-OWNERS = ["ضع_اسمك_هنا"]          # أسماء الملاك في هايرايز (بالضبط كما تظهر)
+OWNERS = ["c1q"]          # أسماء الملاك في هايرايز (بالضبط كما تظهر)
 WELCOME = "أهلاً وسهلاً {name} في غرفتنا 🌹 اكتب !help لعرض الأوامر"
 BYE = "مع السلامة {name} 👋 نتمنى رجوعك"
 ANNOUNCE_EVERY = 300                # إعلان تلقائي كل كم ثانية
